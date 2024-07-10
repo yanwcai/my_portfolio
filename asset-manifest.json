@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my_portfolio/static/css/main.d65522bd.css",
+    "main.js": "/my_portfolio/static/js/main.38d5db21.js",
+    "static/js/787.2dcca737.chunk.js": "/my_portfolio/static/js/787.2dcca737.chunk.js",
+    "static/media/add_game_configuration.png": "/my_portfolio/static/media/add_game_configuration.8c0ed494fed1132182a3.png",
+    "static/media/add_player_score.png": "/my_portfolio/static/media/add_player_score.01b7ff5da15064f72ce3.png",
+    "static/media/team_achievement_board.png": "/my_portfolio/static/media/team_achievement_board.dcd41fcc342b38b0373f.png",
+    "static/media/achievement_level.png": "/my_portfolio/static/media/achievement_level.a7b4714a67dc1452db6f.png",
+    "static/media/congrat_window.png": "/my_portfolio/static/media/congrat_window.66c0ec60c970b2b01009.png",
+    "static/media/SFU_blogimg1.jpeg": "/my_portfolio/static/media/SFU_blogimg1.bd3fd589e6fb56ca3237.jpeg",
+    "static/media/blog_img1.jpeg": "/my_portfolio/static/media/blog_img1.ce5a50c923327cdee269.jpeg",
+    "static/media/welcome_screen.png": "/my_portfolio/static/media/welcome_screen.68657529de0e698c722b.png",
+    "index.html": "/my_portfolio/index.html",
+    "main.d65522bd.css.map": "/my_portfolio/static/css/main.d65522bd.css.map",
+    "main.38d5db21.js.map": "/my_portfolio/static/js/main.38d5db21.js.map",
+    "787.2dcca737.chunk.js.map": "/my_portfolio/static/js/787.2dcca737.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d65522bd.css",
+    "static/js/main.38d5db21.js"
+  ]
+}
