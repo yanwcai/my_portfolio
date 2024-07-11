@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my_portfolio/static/css/main.d65522bd.css",
-    "main.js": "/my_portfolio/static/js/main.38d5db21.js",
+    "main.css": "/my_portfolio/static/css/main.3021cb9e.css",
+    "main.js": "/my_portfolio/static/js/main.9bc0185d.js",
     "static/js/787.2dcca737.chunk.js": "/my_portfolio/static/js/787.2dcca737.chunk.js",
     "static/media/add_game_configuration.png": "/my_portfolio/static/media/add_game_configuration.8c0ed494fed1132182a3.png",
     "static/media/add_player_score.png": "/my_portfolio/static/media/add_player_score.01b7ff5da15064f72ce3.png",
@@ -11,13 +11,16 @@
     "static/media/SFU_blogimg1.jpeg": "/my_portfolio/static/media/SFU_blogimg1.bd3fd589e6fb56ca3237.jpeg",
     "static/media/blog_img1.jpeg": "/my_portfolio/static/media/blog_img1.ce5a50c923327cdee269.jpeg",
     "static/media/welcome_screen.png": "/my_portfolio/static/media/welcome_screen.68657529de0e698c722b.png",
+    "static/media/profile.jpeg": "/my_portfolio/static/media/profile.7a6a6c54279a54d1977c.jpeg",
+    "static/media/graph-paper.svg": "/my_portfolio/static/media/graph-paper.8a6852952bdb3625748c.svg",
     "index.html": "/my_portfolio/index.html",
-    "main.d65522bd.css.map": "/my_portfolio/static/css/main.d65522bd.css.map",
-    "main.38d5db21.js.map": "/my_portfolio/static/js/main.38d5db21.js.map",
+    "static/media/sparkles.svg": "/my_portfolio/static/media/sparkles.70b00eaa67bfd0a60e0179de9c12acc8.svg",
+    "main.3021cb9e.css.map": "/my_portfolio/static/css/main.3021cb9e.css.map",
+    "main.9bc0185d.js.map": "/my_portfolio/static/js/main.9bc0185d.js.map",
     "787.2dcca737.chunk.js.map": "/my_portfolio/static/js/787.2dcca737.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d65522bd.css",
-    "static/js/main.38d5db21.js"
+    "static/css/main.3021cb9e.css",
+    "static/js/main.9bc0185d.js"
   ]
 }
