@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/my_portfolio/static/css/main.3021cb9e.css",
-    "main.js": "/my_portfolio/static/js/main.9bc0185d.js",
+    "main.css": "/my_portfolio/static/css/main.8fb5e39b.css",
+    "main.js": "/my_portfolio/static/js/main.21ef9795.js",
     "static/js/787.2dcca737.chunk.js": "/my_portfolio/static/js/787.2dcca737.chunk.js",
     "static/media/add_game_configuration.png": "/my_portfolio/static/media/add_game_configuration.8c0ed494fed1132182a3.png",
     "static/media/add_player_score.png": "/my_portfolio/static/media/add_player_score.01b7ff5da15064f72ce3.png",
     "static/media/team_achievement_board.png": "/my_portfolio/static/media/team_achievement_board.dcd41fcc342b38b0373f.png",
     "static/media/achievement_level.png": "/my_portfolio/static/media/achievement_level.a7b4714a67dc1452db6f.png",
     "static/media/congrat_window.png": "/my_portfolio/static/media/congrat_window.66c0ec60c970b2b01009.png",
-    "static/media/SFU_blogimg1.jpeg": "/my_portfolio/static/media/SFU_blogimg1.bd3fd589e6fb56ca3237.jpeg",
-    "static/media/blog_img1.jpeg": "/my_portfolio/static/media/blog_img1.ce5a50c923327cdee269.jpeg",
+    "static/media/Profile.JPG": "/my_portfolio/static/media/Profile.f3e01e5693d892ab6ca3.JPG",
+    "static/media/examples.jpg": "/my_portfolio/static/media/examples.c9ea03935c3e2300fcce.jpg",
+    "static/media/results.jpg": "/my_portfolio/static/media/results.5e6b4a6f5f772a21d489.jpg",
     "static/media/welcome_screen.png": "/my_portfolio/static/media/welcome_screen.68657529de0e698c722b.png",
-    "static/media/profile.jpeg": "/my_portfolio/static/media/profile.7a6a6c54279a54d1977c.jpeg",
     "static/media/graph-paper.svg": "/my_portfolio/static/media/graph-paper.8a6852952bdb3625748c.svg",
     "index.html": "/my_portfolio/index.html",
     "static/media/sparkles.svg": "/my_portfolio/static/media/sparkles.70b00eaa67bfd0a60e0179de9c12acc8.svg",
-    "main.3021cb9e.css.map": "/my_portfolio/static/css/main.3021cb9e.css.map",
-    "main.9bc0185d.js.map": "/my_portfolio/static/js/main.9bc0185d.js.map",
+    "main.8fb5e39b.css.map": "/my_portfolio/static/css/main.8fb5e39b.css.map",
+    "main.21ef9795.js.map": "/my_portfolio/static/js/main.21ef9795.js.map",
     "787.2dcca737.chunk.js.map": "/my_portfolio/static/js/787.2dcca737.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3021cb9e.css",
-    "static/js/main.9bc0185d.js"
+    "static/css/main.8fb5e39b.css",
+    "static/js/main.21ef9795.js"
   ]
 }
