@@ -7,8 +7,9 @@ import {
   Route,
 } from "react-router-dom";
 import Home from "./components/pages/Home";
-import About from "./components/pages/About";
-import ProjectPage from "./components/pages/ProjectPage";
+import About from "./components/AboutSection";
+import Projects from "./components/ProjectSection";
+import Contact from "./components/ConnectSection";
 import Navbar from "./components/Navigation";
 
 
@@ -21,8 +22,10 @@ function App() {
       <Navbar />
         <Routes>
             <Route exact path="/" element={<Home />} />
-            <Route path="/about" element={<About />} />
-            <Route path="/project_page" element={<ProjectPage />} />
+            <Route exact path="/home" element={<Home />} />
+            <Route exact path="/about" element={<About />} />
+            <Route exact path="/projects" element={<Projects />} />
+            <Route exact path="/contact" element={<Contact />} />
 
         </Routes>
       </Router>

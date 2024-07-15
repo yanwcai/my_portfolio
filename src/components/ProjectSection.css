@@ -1,19 +1,22 @@
 .project-section-container {
-    height: 100vh;
+    height: 250vh;
     width: 100%;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;  
+    align-items: center;
+    object-fit: contain;
     background-color: #f0f0f0;
-    padding: 50px 50px;
+    padding: 50px 0;
+    overflow: auto;
 }
 
 .project-section-title {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 0 auto;
-    margin-bottom: 50px;
+    margin-top: 0px;
+    margin-bottom: 20px;
 }
 
 .project-section-title h1 {
@@ -21,26 +24,24 @@
     color:  #3b3b3b;
 }
 
-.main-project {
-    display: flex;
-    flex-direction:'row';
-    justify-content: space-between;
-    align-items: center;
-    max-width: 960px;
-    margin: 0 auto;
-   
-}
-
 .carousel-container {
     display: flex;
     flex-direction: row;
-    justify-content: center;
-    /* max-width: 50%; */
-    
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1200px;
+    margin-bottom: 50px;
+    box-sizing: border-box;
+}
+
+.carousel-container:first-child {
+    margin-top: 20px; 
 }
 
 .carousel-slider {
-    max-width: 30%;
+    flex: 1;
+    max-width: 40%;
+    height: auto;
     max-height: 90vh;
 }
 
@@ -73,19 +74,25 @@
     color: #808080; 
 }
 
-
 .other-projects {
     margin-top: 40px;
     margin-right: 20px;
 }
 
-.card-row {
-    display: flex;
-    justify-content: center;
-    margin-left: 20px;
-    margin-right: 20px;
-}
+@media (max-width: 768px) {
+    .carousel-container {
+        flex-direction: column;
+        align-items: center;
+        width: 100%;  
+        padding: 0 20px; 
+    }
 
-.card {
-    margin-left: 50px;
+    .carousel-slider, .project-descript {
+        max-width: 100%;
+        margin: 0;
+    }
+
+    .project-descript {
+        margin-top: 20px;
+    }
 }
