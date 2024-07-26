@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my_portfolio/static/css/main.8fb5e39b.css",
-    "main.js": "/my_portfolio/static/js/main.21ef9795.js",
+    "main.css": "/my_portfolio/static/css/main.11ecaa8d.css",
+    "main.js": "/my_portfolio/static/js/main.35baf96d.js",
     "static/js/787.2dcca737.chunk.js": "/my_portfolio/static/js/787.2dcca737.chunk.js",
     "static/media/add_game_configuration.png": "/my_portfolio/static/media/add_game_configuration.8c0ed494fed1132182a3.png",
     "static/media/add_player_score.png": "/my_portfolio/static/media/add_player_score.01b7ff5da15064f72ce3.png",
@@ -12,15 +12,15 @@
     "static/media/examples.jpg": "/my_portfolio/static/media/examples.c9ea03935c3e2300fcce.jpg",
     "static/media/results.jpg": "/my_portfolio/static/media/results.5e6b4a6f5f772a21d489.jpg",
     "static/media/welcome_screen.png": "/my_portfolio/static/media/welcome_screen.68657529de0e698c722b.png",
-    "static/media/graph-paper.svg": "/my_portfolio/static/media/graph-paper.8a6852952bdb3625748c.svg",
+    "static/media/graph-paper.svg": "/my_portfolio/static/media/graph-paper.31600a0e3a0d2bd8b04e.svg",
     "index.html": "/my_portfolio/index.html",
     "static/media/sparkles.svg": "/my_portfolio/static/media/sparkles.70b00eaa67bfd0a60e0179de9c12acc8.svg",
-    "main.8fb5e39b.css.map": "/my_portfolio/static/css/main.8fb5e39b.css.map",
-    "main.21ef9795.js.map": "/my_portfolio/static/js/main.21ef9795.js.map",
+    "main.11ecaa8d.css.map": "/my_portfolio/static/css/main.11ecaa8d.css.map",
+    "main.35baf96d.js.map": "/my_portfolio/static/js/main.35baf96d.js.map",
     "787.2dcca737.chunk.js.map": "/my_portfolio/static/js/787.2dcca737.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8fb5e39b.css",
-    "static/js/main.21ef9795.js"
+    "static/css/main.11ecaa8d.css",
+    "static/js/main.35baf96d.js"
   ]
 }
