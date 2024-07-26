@@ -1,14 +1,13 @@
 .project-section-container {
-    height: 250vh;
+    /* height: 250vh; */
     width: 100%;
-    display: flex;
+    /* display: flex;
     flex-direction: column;
-    justify-content: space-between;  
-    align-items: center;
-    object-fit: contain;
+    justify-content: space-between;   */
+    /* align-items: center; */
+    /* object-fit: contain; */
     background-color: #f0f0f0;
     padding: 50px 0;
-    overflow: auto;
 }
 
 .project-section-title {
@@ -42,13 +41,13 @@
     flex: 1;
     max-width: 40%;
     height: auto;
-    max-height: 90vh;
+    padding: auto;
 }
 
 .project-descript {
     flex: 1;
     margin-left: 20px;
-    max-width: 50%;
+    max-width: 60%;
     margin-right: 20px;
 }
 

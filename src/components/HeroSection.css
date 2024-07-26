@@ -5,19 +5,17 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    /* box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2); */
     object-fit: contain;
     background-position: left;
     background-repeat: repeat;
     /* background-size: cover; */
-    background-color: #dfdbe5;
-    color: #9c92ac;
+    background-color: #F8EDED;
     background-image: url('../../src/images/graph-paper.svg');
   }
   
   .hero-container h1 {
     color: #3b3b3b;
-    font-size: 80px;
+    font-size: 70px;
     margin-top: -100px;
     max-width: 90%;
   }
@@ -25,7 +23,7 @@
   .hero-container p {
     margin-top: 8px;
     color: #3b3b3b;
-    font-size: 50px;
+    font-size: 40px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
       'Lucida Sans', Arial, sans-serif;
   }

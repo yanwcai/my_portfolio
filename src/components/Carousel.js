@@ -14,7 +14,7 @@ function ControlledCarousel({images}) {
       {images.map((image, idx) => (
         <Carousel.Item key={idx}>
           <img
-            className="d-inline-block w-100"
+            className="d-inline-block"
             src={image.src}
             alt={image.alt}
           />
